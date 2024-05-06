@@ -1,0 +1,36 @@
+{
+    "name": "monaco-stand-client",
+    "version": "1.0.0",
+    "description": "monaco stand client",
+    "scripts": {
+        "start": "webpack serve"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@codingame/monaco-vscode-julia-default-extension": "4.3.2",
+        "@typefox/monaco-editor-react": "3.2.1",
+        "monaco-editor": "npm:@codingame/monaco-vscode-editor-api@^4.3.2",
+        "monaco-editor-wrapper": "^4.2.1",
+        "monaco-languageclient": "8.3.1",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "vscode": "npm:@codingame/monaco-vscode-api@^4.3.2"
+    },
+    "devDependencies": {
+        "@types/react": "^18.3.1",
+        "@types/react-dom": "^18.3.0",
+        "@types/vscode": "^1.89.0",
+        "css-loader": "^6.8.1",
+        "html-webpack-plugin": "^5.5.3",
+        "mini-css-extract-plugin": "^2.7.6",
+        "sass": "^1.69.4",
+        "sass-loader": "^13.3.2",
+        "style-loader": "^3.3.3",
+        "ts-loader": "^9.5.0",
+        "webpack": "^5.89.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1"
+    }
+}

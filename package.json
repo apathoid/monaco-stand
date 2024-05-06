@@ -1,0 +1,15 @@
+{
+    "name": "monaco-stand",
+    "version": "1.0.0",
+    "description": "monaco stand",
+    "scripts": {
+        "start:client": "npm run --prefix=./client start",
+        "start:server": "npm run --prefix=./server start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.4.5"
+    }
+}
