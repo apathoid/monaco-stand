@@ -1,7 +1,7 @@
 # Monaco Editor Stand
 
 
-You have to enable `chrome://flags/#allow-insecure-localhost` in order to make possible connect to local WS server.
+You have to enable `chrome://flags/#allow-insecure-localhost` in order to make it possible to connect to local WS server.
 
 
 ## Starting
